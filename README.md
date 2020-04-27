@@ -7,5 +7,5 @@ There are 3 jupyter notebooks:
 - In FeatureSelection.ipynb we made some feature selection using a LOFO library from here https://github.com/aerdem4/lofo-importance
 
 Main contributors:
-https://github.com/msmelguizo - Maria Wellenm smelguizo@gmail.com
-https://github.com/maloyan - Narek Maloyan narek1110@gmail.com
+- https://github.com/msmelguizo - Maria Wellenm smelguizo@gmail.com
+- https://github.com/maloyan - Narek Maloyan narek1110@gmail.com
